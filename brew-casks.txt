@@ -1,0 +1,8 @@
+iterm2
+alfred
+lastpass
+fig
+visual-studio-code
+sourcetree
+whatsapp
+slack
