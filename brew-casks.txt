@@ -6,3 +6,4 @@ visual-studio-code
 sourcetree
 whatsapp
 slack
+kap
